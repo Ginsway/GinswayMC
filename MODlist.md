@@ -1,0 +1,16 @@
+### modlist
+- Nature's Compass
+- Patchouli
+- Waystones
+- Balm
+- Quark
+- AutoRegLib
+- CraftTweaker
+- JEITweaker
+- Iron Chests
+- Biomes O' Plenty
+- TerraBlender
+- Tinkers' Construct 3
+- Mantle
+- Curios API
+- Storage Drawers
